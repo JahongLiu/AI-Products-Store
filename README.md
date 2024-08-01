@@ -1,2 +1,4 @@
 # System-Design-Basics
-System Design Basics: Networking, APIs, Caching Basics, Proxies, Storage, Big Data
+Plans:
+1. Learn the basics: Networking, APIs, Caching Basics, Proxies, Storage, Big Data
+2. Start with a Full Stack Application
