@@ -1,16 +1,8 @@
-# System-Design-Basics
-Plans:
-1. Learn the basics: Networking, APIs, Caching Basics, Proxies, Storage, Big Data
-2. Start with a Full Stack Application
+# Large-Distributed System
 
 ## Enviroment Set
-1. Virtual Machine:
-Google Cloud Compute Engine familarity 
-| OS -Linux(Ubuntu) | 
+https://cloud.google.com/resource-manager/docs/creating-managing-projects
+![Screenshot 2024-08-01 at 8 31 35 PM](https://github.com/user-attachments/assets/82b53df0-a1e7-423f-9188-311cd8fdaf60)
 
 
-• Languages: Python, Java, JavaScript 
-• Back-end Framework: Django
-• Front-end Framework: React
-• Database: PostgreSQL
-• 
+
