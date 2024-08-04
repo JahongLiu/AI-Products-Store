@@ -1,4 +1,6 @@
 # Large-Distributed System
+## Resources
+https://github.com/donnemartin/system-design-primer
 
 ## Full Documentation
 https://docs.google.com/document/d/1WndXqDR-drMV2vJBGzGJUmWAJhcbBfQ4EeXkIVy9f3A/edit
