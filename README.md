@@ -1,10 +1,17 @@
-# Large-Distributed System
+# Large-System-Design
 
-V1:
+## Overview
+Architected a Full stack AI app to explore design challenges, trade-offs and business ideas.  
+
+### V1:
 ![Large System Design v1](https://github.com/user-attachments/assets/dd4e7b37-a9e2-45c8-9e92-e6c87baacf42)
 
-Django:
+### Django:
 ![Django WebApp Architecture](https://github.com/user-attachments/assets/349bda90-cc51-4e56-8ed6-38b620b70639)
+
+### MicroServices:
+![Services Architecture](https://github.com/user-attachments/assets/793a88b7-7f8c-46f8-986a-41104a3dd494)
+
 
 
 ## Docs
