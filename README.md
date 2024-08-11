@@ -3,6 +3,10 @@
 V1:
 ![Large System Design v1](https://github.com/user-attachments/assets/dd4e7b37-a9e2-45c8-9e92-e6c87baacf42)
 
+Django:
+![Django WebApp Architecture](https://github.com/user-attachments/assets/349bda90-cc51-4e56-8ed6-38b620b70639)
+
+
 ## Docs
 https://docs.google.com/document/d/1WndXqDR-drMV2vJBGzGJUmWAJhcbBfQ4EeXkIVy9f3A/edit
 
