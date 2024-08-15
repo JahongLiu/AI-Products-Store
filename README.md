@@ -1,4 +1,4 @@
-#  AI-Product-Gnerator-Store
+#  AI-Products-Store
 
 ## Overview
 Architected an AI-powered product generator store app to explore design challenges, trade-offs, and innovative business ideas  
