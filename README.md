@@ -15,7 +15,8 @@ https://docs.google.com/document/d/1WndXqDR-drMV2vJBGzGJUmWAJhcbBfQ4EeXkIVy9f3A/
 ### MicroServices:
 ![Services Architecture](https://github.com/user-attachments/assets/793a88b7-7f8c-46f8-986a-41104a3dd494)
 
-
+### Docker Plan
+![Screenshot 2024-08-14 at 3 25 43 PM](https://github.com/user-attachments/assets/56285a11-1663-430e-94d0-b0055c90d09e)
 
 
 
