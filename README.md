@@ -1,7 +1,7 @@
-# Large-System-Design
+#  AI-Product-Gnerator-Store
 
 ## Overview
-Architected a Full stack AI app to explore design challenges, trade-offs and business ideas.  
+Architected an AI-powered product generator store app to explore design challenges, trade-offs, and innovative business ideas  
 
 ## Docs
 https://docs.google.com/document/d/1WndXqDR-drMV2vJBGzGJUmWAJhcbBfQ4EeXkIVy9f3A/edit
