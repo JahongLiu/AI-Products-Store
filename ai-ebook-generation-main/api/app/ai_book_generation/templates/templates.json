@@ -1,0 +1,20 @@
+{
+    "table": {
+        "name": "table",
+        "tags": ["table", "home", "generic", "calm", "plain", "food", "wine", "alcohol"],
+        "cover_template": "app/ai_book_generation/templates/covers/table.docx",
+        "book_template": "app/ai_book_generation/templates/content/table.docx"
+    },
+    "desk": {
+        "name": "office",
+        "tags": ["desk", "business", "generic", "serious", "money", "productivity"],
+        "cover_template": "app/ai_book_generation/templates/covers/office.docx",
+        "book_template": "app/ai_book_generation/templates/content/theme.docx"
+    },
+    "space": {
+        "name": "space",
+        "tags": ["space", "science", "stars", "S.T.E.M", "imaginative", "math", "galaxy", "black"],
+        "cover_template": "app/ai_book_generation/templates/covers/space.docx",
+        "book_template": "app/ai_book_generation/templates/content/theme.docx"
+    }
+}
