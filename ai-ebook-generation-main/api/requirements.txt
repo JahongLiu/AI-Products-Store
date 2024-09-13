@@ -1,0 +1,13 @@
+flask-cors==4.0.0
+flask-restful==0.3.10
+pytest==7.0.1
+pre-commit==2.21.0
+Pillow==10.1.0
+pyopenssl
+Flask-Limiter
+docxtpl
+pypdf
+PyPDF2
+pdf2image
+boto3
+stripe

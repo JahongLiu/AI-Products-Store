@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-facebook-pixel": "^1.0.4"
+  },
+  "devDependencies": {
+    "@types/aos": "^3.0.7"
+  }
+}

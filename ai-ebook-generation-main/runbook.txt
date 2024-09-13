@@ -1,0 +1,30 @@
+# ROOT_DIR should be the directory of the root directory
+# ex: export ROOT_DIR=/Users/nang/Documents/ai_book_generation
+
+# First, install requirements
+(find . -name "requirements.txt" -exec pip3 install -r {} \;)
+
+# Then, install Kafka (https://kafka.apache.org/quickstart)
+# and then set PATH_TO_KAFKA in api/app/secrets.sh
+
+# In different terminals run:
+
+aws configure
+
+# Start your Python app
+(source $ROOT_DIR/api/app/secret.sh; cd $ROOT_DIR/api; python3 app.py)
+
+# Start your frontend development server
+(source $ROOT_DIR/api/app/secret.sh; cd $ROOT_DIR/frontend; npm run dev)
+
+# Redirect stripe to our local host
+stripe listen  --load-from-webhooks-api --forward-to localhost:8000/api/stripe_webhooks --skip-verify
+
+
+
+export curr_dir="/c/Users/Administrator/ai-ebook-generation"
+source $curr_dir/api/app/secret.sh; cd $curr_dir/api; python3 app.py
+export curr_dir="/c/Users/Administrator/ai-ebook-generation"
+(source $curr_dir/api/app/secret.sh; cd $curr_dir/frontend; npm run build; npm run start)
+
+(cd "C:\Users\Administrator\Downloads\nginx-1.24.0\nginx-1.24.0" && start nginx)
